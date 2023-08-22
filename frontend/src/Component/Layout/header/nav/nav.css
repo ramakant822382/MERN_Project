@@ -1,0 +1,38 @@
+.en {
+    background-color: rgb(58, 58, 58);
+    text-align: center;
+  padding: 20px;
+    color: aqua;
+  }
+  .div-1 {
+    display: flex;
+    justify-content: space-between;
+   margin-top: 20px;
+  }
+  .div-2 {
+    width: 500px;
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+  }
+  .btn {
+    background-color: aqua;
+    color: black;
+    border: 2px solid black;
+    padding: 5px;
+  }
+  .btn:hover {
+    background-color: rgb(0, 0, 0);
+    color: aqua;
+  }
+  .link {
+    text-decoration: none;
+  }
+  .link:hover {
+    background-color: black;
+    color: aqua;
+  }
+  img {
+    width: 70%;
+  }
+  

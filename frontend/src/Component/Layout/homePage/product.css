@@ -1,0 +1,11 @@
+/* Media Query for Responsive Design */
+#image {
+  width: 100%;
+  height: 100px;
+}
+
+@media screen and (max-width: 600px) {
+  .card {
+    max-width: 90%;
+  }
+}
