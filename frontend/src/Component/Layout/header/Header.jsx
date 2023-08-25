@@ -5,16 +5,15 @@ import { MdSearch } from "react-icons/md";
 import { MdAddShoppingCart } from "react-icons/md";
 // @ts-ignore
 
-
 import "./header.css";
-const logo="http://www.logobook.com/wp-content/uploads/2017/01/Antwerp_Book_Fair_logo.svg"
+const logo =
+  "http://www.logobook.com/wp-content/uploads/2017/01/Antwerp_Book_Fair_logo.svg";
 
 const options = {
-  
   burgerColorHover: "#eb4034",
   logo,
   logoWidth: "5vmax",
-  logoPadding:"10px",
+  logoPadding: "10px",
   navColor1: "white",
   logoHoverSize: "5px",
   logoHoverColor: "#eb4034",
