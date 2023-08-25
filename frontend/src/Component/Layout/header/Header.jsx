@@ -3,19 +3,20 @@ import { ReactNavbar } from "overlay-navbar";
 import { MdAccountCircle } from "react-icons/md";
 import { MdSearch } from "react-icons/md";
 import { MdAddShoppingCart } from "react-icons/md";
+
+import logo from "../../../images/logo.png";
 // @ts-ignore
 
 import "./header.css";
-const logo =
-  "http://www.logobook.com/wp-content/uploads/2017/01/Antwerp_Book_Fair_logo.svg";
 
 const options = {
   burgerColorHover: "#eb4034",
   logo,
+
   logoWidth: "5vmax",
-  logoPadding: "10px",
+  logoPadding: "20px",
   navColor1: "white",
-  logoHoverSize: "5px",
+  logoHoverSize: "3px",
   logoHoverColor: "#eb4034",
   link1Text: "Home",
   link2Text: "Products",
