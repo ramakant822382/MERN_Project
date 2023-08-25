@@ -1,1 +1,2 @@
-# MERN_Project
+# E-Comm Book store
+# Mern Stack App
